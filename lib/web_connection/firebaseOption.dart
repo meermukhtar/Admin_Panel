@@ -1,4 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
+//option.dart for firebase connection
+
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     return const FirebaseOptions(
