@@ -1,4 +1,5 @@
 // import 'package:file_picker/file_picker.dart';
+//categories
 import 'dart:html';
 import 'package:admin_panel/services.dart';
 import 'package:admin_panel/widgets/categories_list.dart';
