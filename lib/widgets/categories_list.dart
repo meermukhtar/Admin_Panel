@@ -13,6 +13,7 @@ class CategoriesList extends StatefulWidget {
 class _CategoriesListState extends State<CategoriesList> {
   @override
   Widget build(BuildContext context) {
+    //getting fb service
     FirebaseServices _service = FirebaseServices();
 
     DeleteCategory(id) async {
