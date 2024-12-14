@@ -51,7 +51,7 @@ class DashboardScreen extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Wrap(
-          spacing: 20,
+          spacing: 10,
           runSpacing: 20,
           children: [
             StreamBuilder<QuerySnapshot>(
